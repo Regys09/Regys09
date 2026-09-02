@@ -1,5 +1,5 @@
 
-#Olá, me chamo Rodrigo! 🫡
+##Olá, me chamo Rodrigo! 🫡
 Tenho 17 anos de idade, muita vontade de aprender e seguir carreira na área de Back-end ou Banco de dados
 ## Sobre mim
 Estou estudando para ser um desenvolvedor back-end...
