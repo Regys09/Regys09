@@ -1,10 +1,10 @@
 
-# Hi, I'm Rodrigo! 🫡
-Tenho 17 anos, muita vontade de aprender e seguir carreira na área de Back-end ou Banco de dados
-## 🚀 About Me
-I'm a junior back-end developer...
+#Olá, me chamo Rodrigo! 🫡
+Tenho 17 anos de idade, muita vontade de aprender e seguir carreira na área de Back-end ou Banco de dados
+## Sobre mim
+Estou estudando para ser um desenvolvedor back-end...
 
-## 🛠 Skills
+## Abilidades
 Python, Javascript, HTML, CSS, Banco de dados...
 
 ## 🔗 Links
